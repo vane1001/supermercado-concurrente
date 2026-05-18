@@ -77,5 +77,3 @@ Clase principal con el método `main()` que:
 | `Thread.sleep()` | Simula el tiempo de cobro de cada producto |
 | `InterruptedException` | Manejo seguro de interrupciones |
 
-
-1. Clonar el 
